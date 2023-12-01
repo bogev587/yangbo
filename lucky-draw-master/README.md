@@ -1,6 +1,6 @@
 ## 年会抽奖
 
-[演示地址](https://vitozyf.github.io/lucky-draw/index.html#/?tdsourcetag=s_pctim_aiomsg)
+[演示地址](https://github.com/bogev587/yangbo/edit/main/lucky-draw-master/README.md))
 
 ## 使用说明
 
